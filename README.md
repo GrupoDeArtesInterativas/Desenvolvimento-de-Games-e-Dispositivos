@@ -1,2 +1,1 @@
-# gamedev
-Conteúdo de Desenvolvimento de Games / Game Development
+Grupo de estudos de Artes Interativas
