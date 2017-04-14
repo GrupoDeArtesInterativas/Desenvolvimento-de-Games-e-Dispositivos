@@ -1,3 +1,3 @@
-##Neste repositório podemos compartilhar arquivos como PDFs e Docs
+### Neste repositório podemos compartilhar arquivos como PDFs e Docs
 
-##Biblioteca de links na [Wiki](https://github.com/GrupoDeArtesInterativas/GameDev/wiki/Grupo-de-Estudos-de-Artes-Interativas)
+### Biblioteca de links na [Wiki](https://github.com/GrupoDeArtesInterativas/GameDev/wiki/Grupo-de-Estudos-de-Artes-Interativas)
